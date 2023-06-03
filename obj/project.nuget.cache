@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n7tJzc8lz97eeAIgLQ64OEt7fGpCMBTFz4/9FCqEvv/bvyKAsyk7L39duDbCFGU05ZFpR6zH/V8leR11GcZXUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\ПРАКТИКА\\Praktica5\\DesSezLibrary\\DesSezLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

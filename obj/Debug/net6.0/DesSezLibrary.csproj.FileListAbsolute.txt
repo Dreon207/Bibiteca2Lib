@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\bin\Debug\net6.0\DesSezLibrary.deps.json
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\bin\Debug\net6.0\DesSezLibrary.dll
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\bin\Debug\net6.0\DesSezLibrary.pdb
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\obj\Debug\net6.0\DesSezLibrary.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\obj\Debug\net6.0\DesSezLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\obj\Debug\net6.0\DesSezLibrary.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\obj\Debug\net6.0\DesSezLibrary.AssemblyInfo.cs
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\obj\Debug\net6.0\DesSezLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\obj\Debug\net6.0\DesSezLibrary.dll
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\obj\Debug\net6.0\refint\DesSezLibrary.dll
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\obj\Debug\net6.0\DesSezLibrary.pdb
+C:\Users\admin\Desktop\ПРАКТИКА\Praktica5\DesSezLibrary\obj\Debug\net6.0\ref\DesSezLibrary.dll
